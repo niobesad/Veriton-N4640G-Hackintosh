@@ -1,7 +1,6 @@
 # Acer Veriton N4640G
 
 Hackintosh in Monterey 12.6.4 <br/>
-<br/>
 OpenCore 0.9.0
 <br/>
 
