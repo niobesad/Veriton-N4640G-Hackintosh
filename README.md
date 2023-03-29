@@ -2,6 +2,8 @@
 
 Hackintosh in Monterey 12.6.4 <br/>
 <br/>
+OpenCore 0.9.0
+<br/>
 
  Acer veriton N4640G<br/>
  Core i5 6400 / 2.71 GHz <br/>
@@ -13,11 +15,11 @@ Hackintosh in Monterey 12.6.4 <br/>
  Everything besides whats not work
  
 # Whats not work
- Can't wake after sleep, common problem for skylake
+ Can't wake after sleep, common problem for skylake,
  set never for display off in energy saver settings
  
 # Notes 
-Please change MLB, SystemSerialNumber, SystemUUID into your own `config.plist`.
+ Please change MLB, SystemSerialNumber, SystemUUID into your own `config.plist`.
 
 ```xml
 <dict>
