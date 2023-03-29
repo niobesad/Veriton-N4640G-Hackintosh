@@ -15,6 +15,23 @@ Hackintosh in Monterey 12.6.4 <br/>
 # Whats not work
  Can't wake after sleep, common problem for skylake
  set never for display off in energy saver settings
+ 
+# Notes 
+Please change MLB, SystemSerialNumber, SystemUUID into your own `config.plist`.
+
+```xml
+<dict>
+    ...
+    <key>MLB</key>
+    <string>xxxxxxxxxxxxxxx</string>
+    ...
+    <key>SystemSerialNumber</key>
+    <string>xxxxxxxxxxx</string>
+    ...
+    <key>SystemUUID</key>
+    <string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
+</dict>
+```
 
 # ScreenShoot
 ![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screen%20Shot%202023-03-30%20at%2012.45.17%20AM.png?raw=true)
