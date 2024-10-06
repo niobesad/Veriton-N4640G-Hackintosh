@@ -1,6 +1,7 @@
 # Acer Veriton N4640G
 
 Hackintosh in Monterey 12.6.4 <br/>
+Added support for Ventura 13.3 <br/>
 OpenCore 0.9.0
 <br/>
 
@@ -15,7 +16,7 @@ OpenCore 0.9.0
  
 # Whats not work
  Can't wake after sleep, common problem for skylake,
- set never for display off in energy saver settings
+ Temporary workaround : set never for display off in energy saver settings
  
 # Notes 
  Please change MLB, SystemSerialNumber, SystemUUID into your own `config.plist`.
@@ -35,4 +36,8 @@ OpenCore 0.9.0
 ```
 
 # ScreenShoot
+ Monterey 12.6.4
 ![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screen%20Shot%202023-03-30%20at%2012.45.17%20AM.png?raw=true)
+<br>
+ Ventura 13.3
+![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screenshot%202024-10-06%20at%20111.41.18%20AM.png?raw=true)
