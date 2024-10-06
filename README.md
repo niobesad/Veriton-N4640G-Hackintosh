@@ -1,7 +1,7 @@
 # Acer Veriton N4640G
 
 Hackintosh in Monterey 12.6.4 <br/>
-Added support for Ventura 13.3 <br/>
+     <br/>
 OpenCore 0.9.0
 <br/>
 
@@ -40,4 +40,4 @@ OpenCore 0.9.0
 ![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screen%20Shot%202023-03-30%20at%2012.45.17%20AM.png?raw=true)
 <br>
  Ventura 13.3
-![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screenshot%202024-10-06%20at%20111.41.18%20AM.png?raw=true)
+![alt textt](https://github.com/niobesad/Veriton-N4640G/blob/main/Screenshot%202024-10-06%20at%2011.41.18%20AM.png?raw=true)
